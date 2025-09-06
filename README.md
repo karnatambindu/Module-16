@@ -383,6 +383,7 @@ if name == 'main': demo_node() print('\n') demo_bplustree()
 ```
 # OUTPUT
 <img width="1195" height="485" alt="Screenshot 2025-09-06 193544" src="https://github.com/user-attachments/assets/0c703e70-67a1-42e9-aee4-5e15c47fe7dc" />
+
 # RESULT
 Thus the program using function def insert(self, key, value): to insert elements into a B+ Tree has been implemented and executed successfully.
 
@@ -512,5 +513,6 @@ print()
 ```
 # OUTPUT
 <img width="1201" height="259" alt="Screenshot 2025-09-06 193912" src="https://github.com/user-attachments/assets/6452a7e5-6512-462f-b979-53d69f22ce3d" />
+
 # RESULT
 Thus the program using Python function def leftRotate(self, z): to perform the left rotation operation in an AVL Tree has been implemented and executed successfully.
